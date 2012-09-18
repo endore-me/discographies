@@ -1,0 +1,133 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.discogs.com/artists/38661
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "UmVwcm94eS1TdGF0dXM=":
+      - !binary |-
+        eWVz
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MTIyNQ==
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        TW9uLCAxNyBTZXAgMjAxMiAxNDo1Mzo0MyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        bGlnaHR0cGQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAHc5V1AC/61ZTY/bNhD9K4QPRQv4gxRJUcotafawCJweFsglDQKuxZXZ
+        lSWVkmMYwf73DiXLq68UK1rwxbToN/PeDIfk6OciN9mTTtTiHVpspSn2MknQ
+        B3PcKbSV5V6ZAt3f36PfHzOTor92ZfaoDCJiiUgovCX6JNNCFuhPXZ6XaKuL
+        Ijsa/ccSPafZKUWPZ7TXBcqNPkhzRkUpY4VSeVDo7qBTdViizDSTZFICsooz
+        9JDoA3rYywgg4d8yRe8PyugdfDEyz2GWTCNk1C4zEWBnEThr0GmfodioEzrm
+        SKfooypNpkvr1G6vY5muF0u0OJqkAKZfF/uyzN9tNqfTaa0qV9a77LCxU1pP
+        nuROPWbZc/WsntabUf94ykwSjQHUj5PsmMZq7PnhXORgYxxfpeuTfta5irRc
+        Zybe2NHmrvJ28Q08NSpRslDFd2Blw3fxXOZ6Helil8VFBSxNqYuy2NDA98mm
+        +ZMlYiNh/3jBrPTRLSSrzhCpcaHyQCYNyK+Tx5qKTXbMK+l/gt82S3bqrX4L
+        n1oIHYFrFAbwvTH6QUZoq1RZoLsfOlm8LNFkeA+zgIirgXrYMvGReE64nFMc
+        vjpeD1u4D9kxQfdpqdJy8WLDCWskVheJYBG14tCPaDVz835VRXRFKBPYE8L3
+        V8Lz6fqfXMWWzl7peF8CDOewUBcnHZV7GDHKYfTGGLzNUnnOqzy6rHNrHAgQ
+        jt/AAWb9H48qotPU8EjgUUK8oRDExy0hPOq7CzEw0mhQQFlKI6h2zip0oR0E
+        AO6csTAcCkBtyb5mAsdWDsdMGBiZT4AutKsAnJChAF5AZhWgbWRmAa7Q0wXw
+        AswZZx4eCiCYTfqmFnC7kTtmwNDIbAL0oKcLYJc/KID9oQCUdGqAf0MNGBiZ
+        TYCe/5MFwNjmfncXADlakacscI18C3wuwg3kZKLEw4EvcMBHtj1Wlbcm1euR
+        W7EbGpmLeN//6QIQTGF/93y71rsBr8t7w5/eUOwHNmaj30V2Z28Xepd9zbdh
+        72G78blFv/HxamN29jWyA3sifILhM2DPAru8G/Y3xb5vYz72HWQH9pD31IfI
+        Avveidfndl9r6LPA/cRLBkbm49+Fni4AHGZ8wunYNs+ZvSU1Avg3rP2hkdkE
+        6EFPF4AyzuHu5tEV9QI+kgakrQKciJxrwC8szSbFGL6zHmG48gPOhnoIPtvp
+        t1a+b2luPTr4rnoEXrgSIhw5C3aPRAzbbHHbI+r4DSzNrEcX31kPKlaUi5H8
+        qOtEUzVYcMP1sMqPoG9pbj06+M56sGBFsT+WH2HnyCxuuCvUevQtza1HB99F
+        D9tICjFeiTAc2VZhw2rtKrc3kgaWZtRjyGSyHs2tBDhfe2lEtFPC85yXSAt8
+        LtYN5GSipL5vsnCkY0I7PTPmO18bR4zMRbwPXbVT31jIO91x27OTibZNdWhd
+        fp3cSxaBEIRZlKpZXQ9h1LSrP6nUvjHRT09OLWWfMTjvXeHrYQv+2oK/vLlx
+        MkJwQIJXDvWwZeT17cylbV215e27BZgUyVJ+//cIGpZn2/z9rFRUoC9ZqazX
+        VoYf0mhZ6iyt38Pcbe0DeAGhDpcvaTXVvpL4+4g9HlS/b3+r5m3Xn9fbxbeX
+        /wCViuVtthoAAA==
+    http_version: 
+  recorded_at: Mon, 17 Sep 2012 14:53:43 GMT
+- request:
+    method: get
+    uri: http://api.discogs.com/artists/90440
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "UmVwcm94eS1TdGF0dXM=":
+      - !binary |-
+        eWVz
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        NTEw
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        TW9uLCAxNyBTZXAgMjAxMiAxNDo1NTo1NyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        bGlnaHR0cGQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAP05V1AC/52UUWvbMBSF/4rwc2tLtuIlfVsprAw2ygZ72UZRrTtbSyx7
+        kozJSv/7rpQ4U0IKqR+PfXW/eyQdPScGNiAs2MfBbJIbkjTO9TdZJnqVSmWr
+        rrZp1bWZME5ZZ7MV5Zxm06LkiiRatOAX3oGqmrXS0n8cjIqajeN4pll2tKKF
+        9gmMxVXfn3Eo2w2mgguHesfLsiw8V0lssJPRaLc4fWerhnyEv1pUTfJyRd4M
+        YWyZ8xU7UPY6wtyD1krX5BasBTMLwkues8WBsZMR4pPYOCAPyjk9k7AsirJY
+        HQg7GREeGrVRfU8+mB8Dpb8qBwY9zTKzLFjOlxHKywj1VeCZCPIFVCu0noVg
+        +QJP5f+G7XUMgSdhnRKa3O0MGQOzUDnFO1Ye3OzkWdC9qNZgXPLyE39jrMKl
+        noIVsjBFJZWQ+Y770Pl/7db2ooIQOjnVERJVgU5HtVY9SCXSztSZV1GYPBV3
+        tIZ9mI6zeBrsUJm9vw7BvqaUpb/7OtBA1Y3DOLEVxY6jkq7xii9QXRjQV5u7
+        bR8ejd5gidl6Ho7JFhQJ0268NilWnUwb4vwWmywvFnzJWblCt3Bsl1MW2S2p
+        Nz/L7hnIZNtC1Wk53/hp63DTLhzy6CX3Gx/ezHD8KKRw4vHPIDbKbf1ZfAaQ
+        lnzrHIbmH/VZ8mAtBgAA
+    http_version: 
+  recorded_at: Mon, 17 Sep 2012 14:55:57 GMT
+recorded_with: VCR 2.2.5
