@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Discographies::VERSION
   gem.authors       = ["Jens Fahnenbruck"]
   gem.email         = ["jigfox@me.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{discogs api client}
+  gem.summary       = %q{discogs api client for the json api v2}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
