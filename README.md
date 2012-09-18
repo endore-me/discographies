@@ -1,5 +1,7 @@
 # Discographies
 
+[![Build Status](https://secure.travis-ci.org/endore-me/discographies.png)](http://travis-ci.org/endore-me/discographies)
+
 TODO: Write a gem description
 
 ## Installation
