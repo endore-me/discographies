@@ -6,7 +6,7 @@ module Discographies
       response = Discographies.connection.get("/releases/#{id}")
       case response.status
       when 200
-        new reposonde.body
+        new response.body
       else
         raise StandardError
       end
