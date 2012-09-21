@@ -5,7 +5,7 @@ require 'discographies/version'
 require 'discographies/artist'
 require 'discographies/releases'
 require 'discographies/release'
-require 'Discographies/master'
+require 'discographies/master'
 
 module Discographies
   module_function
